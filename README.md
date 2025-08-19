@@ -25,7 +25,7 @@ The API allows users to add new schools and list schools sorted by proximity to 
 
 ## ⚙️ Setup & Installation
 
-1.Clone the repository
-   git clone https://github.com/Roh1121/School-management
-2.Install dependencies
+1. Clone the repository
+   git clone https://github.com/Roh1121/School-management                                                                                                                                                                                                                            
+2. Install dependencies
   npm install   
