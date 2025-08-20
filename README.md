@@ -1,7 +1,7 @@
 # 📚 School Management API (Node.js + MySQL)
 
 A simple REST API built with Node.js, Express.js, and MySQLto manage school data.  
-The API allows users to add new schools and list schools sorted by proximity to a given location.
+The API allows users to add new schools and list schools sorted by proximity to a given location. 
 
 ---
 
